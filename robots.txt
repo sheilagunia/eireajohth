@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eazeeghoh.mattratleph.com/sitemap.xml
